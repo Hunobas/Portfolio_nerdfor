@@ -42,6 +42,7 @@
 - **모션 캡처 서버 (Flask + OpenCV + MediaPipe, port 5000)** — 웹캠 입력을 분석해 게임 이벤트로 변환, Socket.IO로 게임 서버에 전달
 - **회원 서버 (Go + MySQL, port 8787)** — 인증 및 사용자 데이터 담당
 
+
 - [GitHub](https://github.com/younggun339/jungleTwo)
 
 ---
